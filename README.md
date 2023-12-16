@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet.</h1>
 <h3 align="center">Trying to code my way through this world, one line at a time.</h3>
 
-- 📝 I am planning to write articles on: [https://medium.com/@omerahmetyucel](https://medium.com/@omerahmetyucel)
+- 📝 I am writing articles on: [https://medium.com/@omerahmetyucel](https://medium.com/@omerahmetyucel)
 
 - 💬 Ask me about **Fallout New Vegas.**
 

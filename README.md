@@ -3,7 +3,7 @@
 
 - 📝 I am writing articles on: [https://medium.com/@omerahmetyucel](https://medium.com/@omerahmetyucel)
 
-- 💬 Ask me about **Fallout New Vegas.**
+- 💬 I can talk about Fallout New Vegas for hours.**
 
 - 📫 You can reach me by e-mail: **omerahmetyucel@gmail.com**
 
